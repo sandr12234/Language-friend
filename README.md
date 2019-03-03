@@ -18,4 +18,4 @@ Rinalds Štauers - Programmētājs
 Tiks izveidota aplikācija, kurā cilvēki, ievadot datus par valodu zināšanām, piemēram, labi pārvalda angļu valodu, vēlas iemācīties franču valodu, spēs atrast sarunu biedru, kuram ir, piemēram, dzimtā valoda franču un vēlas apgūt angļu valodu. Tādējādi cilvēki spēs palīdzēt apgūt viens otram valodas.
 
 
-Vairāk info mūsu _Wiki_
+Vairāk info mūsu [_Wiki_](https://github.com/sandr12234/Language-friend/wiki)
