@@ -24,7 +24,7 @@ Vairāk info mūsu projekta [_Wiki_](https://github.com/sandr12234/Language-frie
 
 ***WEB lietotājiem***
 
-Izmantot doto saiti: t.me/LanguageFriend_bot
+Izmantot doto saiti: [ Saite ](t.me/LanguageFriend_bot)
 
 Ielogoties
 
