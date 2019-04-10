@@ -28,10 +28,13 @@ Izmantot doto saiti: t.me/LanguageFriend_bot
 
 Ielogoties
 
+Izmantot
+
 ***Android lietotājiem***
 
-Lejupielādēt aplikācijas instalēšanas .apk failu no google drive.
+Lejupielādēt aplikācijas instalēšanas .apk failu.
 
-https://drive.google.com/open?id=1QyLNOQ_lYZwCM-6ClGnMn9j6xsTkDCO-
+http://www.mediafire.com/file/4yje065n2sjgeoe/_Language_Friend_8844267.apk/file
+
 
 
