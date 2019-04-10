@@ -38,5 +38,3 @@ http://www.mediafire.com/file/4yje065n2sjgeoe/_Language_Friend_8844267.apk/file
 
 Ielogoties
 
-
-
