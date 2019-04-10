@@ -19,3 +19,19 @@ Tiks izveidota aplikācija, kurā cilvēki, ievadot datus par valodu zināšanā
 
 
 Vairāk info mūsu projekta [_Wiki_](https://github.com/sandr12234/Language-friend/wiki) lapā
+
+**Kā palaist aplikāciju?**
+
+***WEB lietotājiem***
+
+Izmantot doto saiti: t.me/LanguageFriend_bot
+
+Ielogoties
+
+***Android lietotājiem***
+
+Lejupielādēt aplikācijas instalēšanas .apk failu no google drive.
+
+https://drive.google.com/open?id=1QyLNOQ_lYZwCM-6ClGnMn9j6xsTkDCO-
+
+
