@@ -15,7 +15,7 @@ Rinalds Štauers - Programmētājs
 
 **Īsumā par aplikāciju**
 
-Tiks izveidota aplikācija, kurā cilvēki, ievadot datus par valodu zināšanām, piemēram, labi pārvalda angļu valodu, vēlas iemācīties franču valodu, spēs atrast sarunu biedru, kuram ir, piemēram, dzimtā valoda franču un vēlas apgūt angļu valodu. Tādējādi cilvēki spēs palīdzēt apgūt viens otram valodas.
+Language Friend ir aplikācija, kas ļauj lietotājiem apvienoties grupas čatos, lai uzlabotu savas iemaņas izvēlētajā valodā. Language Friend darbojās uz Telegram API&TDLib un BOT API, kas ir bezmaksas open source API (Application Programming Interface), ko izstrādāja Telegram FZ LLC.
 
 
 Vairāk info mūsu projekta [_Wiki_](https://github.com/sandr12234/Language-friend/wiki) lapā
